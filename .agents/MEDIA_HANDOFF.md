@@ -25,12 +25,18 @@ Status flow: `wanted` → `delivered` (media) → `live` (code).
    sets the slot to `delivered`. Do **not** touch `README.md` or anything else
    under `signal/`.
 2. Code agent post-processes the delivered files in place, wires them into the
-   README (the `<!-- slot:0x03 -->` / `<!-- slot:0x04 -->` markers and the
-   `(sleeping)` entries in the terminal block) and sets the slot to `live`.
+   README (the `<!-- slot:0x03 -->` / `<!-- slot:0x04 -->` markers, plus the
+   `(sleeping)` entries in `TERMINAL` inside `tools/typeset.py` and in the
+   terminal image's alt text), re-runs `tools/typeset.py`, and sets the slot
+   to `live`.
 3. After step 2, nobody re-exports, optimises, resizes or recompresses those
    files. Any change to a `live` file goes back through the code agent.
 
 ## Visual direction (both slots)
+
+- Typography across the profile (outside the banner) is Archivo Expanded 800
+  for display and Courier Prime for everything mono. If text appears inside
+  your media, use the same pair.
 
 - Must sit inside the existing profile: dark, minimal, terminal, cryptographic.
   Reference the current assets, `assets/after-hours.svg` and
