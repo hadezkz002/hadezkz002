@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Hadez — after hours</title>
+  <desc id="desc">Black and lilac wordmark with restrained pink glitch cuts and a terminal-inspired footer.</desc>
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 0H4" stroke="#d6baf8" stroke-opacity=".035"/></pattern>
+    <clipPath id="slice"><path d="M0 104H720V110H0ZM0 150H720V154H0Z"/></clipPath>
+  </defs>
+  <path fill="#100e17" d="M0 0H1200V240H0Z"/>
+  <path fill="url(#scan)" d="M0 0H1200V240H0Z"/>
+  <g fill="#aaa0b5" font-family="'Courier New',monospace" font-size="14" letter-spacing="3">
+    <text x="36" y="32">PERSONAL ARCHIVE / 002</text>
+    <text x="1164" y="32" text-anchor="end">HADEZKZ002</text>
+  </g>
+  <path d="M36 47H1164" stroke="#38303f"/>
+  <text x="29" y="173" fill="#e5d6f7" font-family="'Arial Black',Arial,sans-serif" font-size="148" font-weight="900" letter-spacing="-9">HADEZ</text>
+  <text x="37" y="173" fill="#de78b3" font-family="'Arial Black',Arial,sans-serif" font-size="148" font-weight="900" letter-spacing="-9" clip-path="url(#slice)">HADEZ</text>
+  <path d="M34 118H116V121H34ZM506 151H600V154H506" fill="#100e17"/>
+  <path d="M838 72V174" stroke="#55415e"/>
+  <g font-family="'Courier New',monospace" font-size="32" letter-spacing="5" fill="#cfb0e9">
+    <text x="870" y="108">AFTER</text>
+    <text x="870" y="147">HOURS_</text>
+  </g>
+  <path d="M1118 76V169M1125 76V169M1138 76V169M1144 76V169M1159 76V169" stroke="#ac7fb7" stroke-width="3"/>
+  <path d="M1130 76V169M1150 76V169" stroke="#ac7fb7" stroke-width="6"/>
+  <path d="M36 196H1164" stroke="#38303f"/>
+  <text x="36" y="223" fill="#b5a3c2" font-family="'Courier New',monospace" font-size="14" letter-spacing="2">CODE / AUTOMATION / VISUAL EXPERIMENTS</text>
+  <text x="1164" y="223" text-anchor="end" fill="#df93bd" font-family="'Courier New',monospace" font-size="14" letter-spacing="2">[ midnight garage ]</text>
+</svg>
