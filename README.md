@@ -2,44 +2,66 @@
   <img src="assets/after-hours.svg" width="100%" alt="HADEZ — after hours. Code, automation and visual experiments." />
 </p>
 
-<br>
-
-<img align="right" src="assets/night-drive.png" width="40%" alt="Purple Y2K artwork: a hooded anime character beside a lilac drift car." />
-
-### behind the screen_
-
-I'm Hadez. I build web apps, automate the repetitive parts, and care about how things look and feel.
-
-Full-stack development, AI workflows, and small visual experiments.
+<img align="left" src="assets/night-drive.png" width="34%" alt="Purple Y2K artwork: a hooded anime character beside a lilac drift car." />
 
 <br>
 
-<samp>tools I reach for</samp>
+<samp>$ whoami</samp>
 
-`TypeScript` `React` `Next.js`<br>
-`Python` `FastAPI` `Node.js`<br>
-`PostgreSQL` `Docker` `Git`
+### Builds web apps.<br>Automates the repetitive parts.<br>Cares how things look and feel.
+
+<samp>full-stack / ai workflows / visual experiments</samp>
 
 <br clear="all">
 <br>
 
----
+```
+guest@hadez:~$ cat /etc/motd
 
-<samp>01 / selected work</samp>
+            .         .
+             _.-----._
+         (@)=( . : . )=(@)
+             '-.___.-'
+  _..--"""--..|▓▓▓▓▓|..--"""--.._
+.'░░░░░▒▒▒▒▒▒▒[▓▓X▓▓]▒▒▒▒▒▒▒░░░░░'.
+'-._░░░▒▒▒_..-|▓▓▓▓▓|-.._▒▒▒░░░_.-'
+    ""-..-""  \▓▓3▓▓/  ""-..-""
+    .-'░▒▒'-.  |▓3▓|  .-'▒▒░'-.
+    '-.░▒▒.-'  |▓0▓|  '-.▒▒░.-'
+               '.1.'
+                 V
+
+guest@hadez:~$ finger hadez
+Login: hadezkz002     Name: Hadez
+Plan:
+  typescript   react     next.js
+  python       fastapi   node.js
+  postgresql   docker    git
+
+guest@hadez:~$ █
+```
+
+<br>
+
+<samp>01 / WORK</samp>
 
 #### [universal-media-downloader](https://github.com/hadezkz002/universal-media-downloader)
 Paste a link, pick a format, download media you own or have permission to save.<br>
-<sub>Python / FastAPI / FFmpeg &nbsp; · &nbsp; [open app](https://hadezkz002.github.io/universal-media-downloader/)</sub>
+<sub>python · fastapi · ffmpeg &nbsp;—&nbsp; [open app](https://hadezkz002.github.io/universal-media-downloader/)</sub>
 
 #### [hello-world-gradient](https://github.com/hadezkz002/hello-world-gradient)
 A small study in color, gradients, and movement.<br>
-<sub>HTML / CSS &nbsp; · &nbsp; [source](https://github.com/hadezkz002/hello-world-gradient)</sub>
+<sub>html · css</sub>
 
----
+<br>
+
+<samp>02 / INDEX</samp>
+
+[repositories](https://github.com/hadezkz002?tab=repositories) &nbsp;·&nbsp; [stars](https://github.com/hadezkz002?tab=stars)
+
+<br>
 
 <p align="center">
-  <samp>less noise. more intent.</samp><br><br>
-  <a href="https://github.com/hadezkz002?tab=repositories">repositories</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/hadezkz002?tab=stars">stars</a>
+  <sub><samp>bGVzcyBub2lzZS4gbW9yZSBpbnRlbnQu</samp></sub><br>
+  <sub>the cicada and 3301 are a nod to puzzle and cryptography culture — no affiliation.</sub>
 </p>
