@@ -1,3 +1,4 @@
+<!-- 1:6 7:2 1:12 7:10 7:9 8:14 7:17 5:4 -->
 <p align="center">
   <img src="assets/after-hours.svg" width="100%" alt="HADEZ — after hours. Code, automation and visual experiments." />
 </p>
@@ -33,35 +34,36 @@ guest@hadez:~$ cat /etc/motd
 
 guest@hadez:~$ finger hadez
 Login: hadezkz002     Name: Hadez
+Project: you ran the key.
 Plan:
   typescript   react     next.js
   python       fastapi   node.js
   postgresql   docker    git
 
+guest@hadez:~$ cat ~hadez/.signal
+WMNJX YJABA VTJVB ZXYJX NMIKJ
+FGKPV RMAZG FQWAI LRWIP ZIIYP
+RHEES MEYTV QTFOX CTERX GRXMV
+ZWYFB JUJZA MFOBZ YTVYX VSBBU
+RVCWE CLRYG BAWVJ QGJMM NLRYX
+NT
+
+guest@hadez:~$ ls ~hadez/signal
+0x01.wav
+0x02.pub
+0x03.png -> (sleeping)
+0x04.gif -> (sleeping)
+
 guest@hadez:~$ █
 ```
 
-<br>
+<!-- slot:0x03 -->
 
-<samp>01 / WORK</samp>
-
-#### [universal-media-downloader](https://github.com/hadezkz002/universal-media-downloader)
-Paste a link, pick a format, download media you own or have permission to save.<br>
-<sub>python · fastapi · ffmpeg &nbsp;—&nbsp; [open app](https://hadezkz002.github.io/universal-media-downloader/)</sub>
-
-#### [hello-world-gradient](https://github.com/hadezkz002/hello-world-gradient)
-A small study in color, gradients, and movement.<br>
-<sub>html · css</sub>
-
-<br>
-
-<samp>02 / INDEX</samp>
-
-[repositories](https://github.com/hadezkz002?tab=repositories) &nbsp;·&nbsp; [stars](https://github.com/hadezkz002?tab=stars)
+<!-- slot:0x04 -->
 
 <br>
 
 <p align="center">
   <sub><samp>bGVzcyBub2lzZS4gbW9yZSBpbnRlbnQu</samp></sub><br>
-  <sub>the cicada and 3301 are a nod to puzzle and cryptography culture — no affiliation.</sub>
+  <sub>the puzzles are original. the cicada and 3301 are a nod to puzzle culture — no affiliation.</sub>
 </p>
